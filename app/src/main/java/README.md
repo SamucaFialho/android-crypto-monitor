@@ -31,3 +31,9 @@ não declaramos para o Serviço do Android que o "MercadoBitcoinService" e o "Me
 
 ![img.png](images/img_4.png)
 ![img_1.png](images/img_2.png)
+
+
+
+# Resultado final
+
+![img.png](images/img_5.png)
